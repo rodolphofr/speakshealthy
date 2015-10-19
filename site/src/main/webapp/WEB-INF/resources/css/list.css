@@ -1,0 +1,26 @@
+.list_item_container {
+    width:300px;
+    height: 80px;
+    padding: 5px 0;
+    background-color: #D9F5FF;
+}
+
+.image {
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    float: left;
+}
+
+.name {
+	font-style: italic;
+    font-size: 1.0em;
+    color: black;
+    margin-bottom: 7px;
+}
+
+.rg {
+    font-style: italic;
+    font-size: 15px;
+    color: gray;
+}
